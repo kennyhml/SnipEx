@@ -232,6 +232,7 @@
     <Image Include="Assets\YellowHilighter32x32.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".clang-format" />
     <None Include=".gitattributes" />
     <None Include=".gitignore" />
     <None Include="Assets\BlackBoxCursor.cur" />
