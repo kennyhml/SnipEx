@@ -170,5 +170,9 @@
     <None Include="Assets\TextCursor.cur">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="LICENSE" />
+    <None Include="README.md" />
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
   </ItemGroup>
 </Project>
